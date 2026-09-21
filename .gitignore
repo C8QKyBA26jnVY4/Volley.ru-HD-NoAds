@@ -1,0 +1,36 @@
+# Chrome Extension Auto-Generated Files
+_metadata/
+*.crx
+*.pem
+
+# Editor Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary Files
+*.tmp
+*.bak
+*.backup
+.cache/
+
+# Package Files (if using build tools)
+node_modules/
+dist/
+build/
+
+# Environment Files
+.env
+.env.local
+CLAUDE.md
